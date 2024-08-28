@@ -7,8 +7,9 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
 
-- :credit_card: My full name is **Nadeesha Thejangani Samaraweera.** <img src="d4tvukbt5mra37cvwklk-ezgif com-gif-maker](https://github.com/user-attachments/assets/fe82e1de-3da0-4695-a3e2-4ec89b1fc20d)
-" width="400" align="right"/>
+
+- :credit_card: My full name is **Nadeesha Thejangani Samaraweera.**
+   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="400" align="right" height="250" />
 - :school: I'm currently  student at **IJSE - Institute of Software Engineering.**
 - :earth_asia: I'm living now in **Matara, Sri Lanka.**
 - 📫 How to reach me: nadeesamaraweera2000@gmail.com.
