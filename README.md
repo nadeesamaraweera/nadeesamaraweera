@@ -2,7 +2,7 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20I'm%20Nadeesha;Welcome%20To%20My%20Profile;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<img alt="Nadee-samaraweera | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeesamaraweera&label=Profile%20views&color=0e75b6&style=flat" alt="nadeesamaraweera" /> </p>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
@@ -68,7 +68,7 @@
 
 <br><br>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">Connect With Me 
 <p align="center">
   <a href="mailto:nadeesamaraweera2000@gmail.com">
     <img align="center" alt="Nadeesamaraweera | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
