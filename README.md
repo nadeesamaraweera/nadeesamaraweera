@@ -16,7 +16,11 @@
 - :school: I'm currently  student at **IJSE - Institute of Software Engineering.**
 - :earth_asia: I'm living now in **Matara, Sri Lanka.**
 - 📚 I love reading books and watching tech talks to stay updated with the latest trends in software engineering.
+- 🛠️ All of my projects are available at: https://github.com/nadeesamaraweera?tab=repositories
 - 📫 How to reach me: nadeesha.weeraa@gmail.com.
+- 💫 Fun fact I'am  a Positive Thinker.
+
+
 
 
 <br><br>
